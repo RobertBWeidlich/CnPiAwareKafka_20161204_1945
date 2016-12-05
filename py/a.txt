@@ -1,0 +1,177 @@
+writing JSON to "/tmp/tmp1DrXbS"
+DATA:
+>>>{ "now" : 1480904061.2,
+  "messages" : 12170408,
+  "aircraft" : [
+    {"hex":"ab627c","altitude":7325,"vert_rate":3904,"track":293,"speed":275,"mlat":[],"tisb":[],"messages":51,"seen":0.3,"rssi":-6.5},
+    {"hex":"a30c8e","altitude":35000,"mlat":[],"tisb":[],"messages":12,"seen":0.1,"rssi":-13.9},
+    {"hex":"a15516","mlat":[],"tisb":[],"messages":9,"seen":41.1,"rssi":-13.4},
+    {"hex":"a135cb","squawk":"3347","altitude":34000,"mlat":[],"tisb":[],"messages":56,"seen":17.9,"rssi":-13.9},
+    {"hex":"aaad6d","flight":"5773    ","altitude":7200,"vert_rate":4352,"track":87,"speed":288,"category":"A0","mlat":[],"tisb":[],"messages":31,"seen":0.3,"rssi":-10.6},
+    {"hex":"a55447","squawk":"2476","lat":38.745850,"lon":-77.089333,"nucp":7,"seen_pos":0.6,"altitude":6150,"vert_rate":4288,"track":269,"speed":246,"mlat":[],"tisb":[],"messages":78,"seen":0.1,"rssi":-5.5},
+    {"hex":"aa7aa6","altitude":38000,"mlat":[],"tisb":[],"messages":14,"seen":2.4,"rssi":-13.4},
+    {"hex":"a120f3","squawk":"3137","lat":38.013016,"lon":-77.150905,"nucp":7,"seen_pos":8.3,"altitude":35000,"vert_rate":0,"track":41,"speed":542,"mlat":[],"tisb":[],"messages":126,"seen":0.9,"rssi":-8.1},
+    {"hex":"a8754d","altitude":20450,"vert_rate":-1984,"track":11,"speed":338,"mlat":[],"tisb":[],"messages":50,"seen":4.5,"rssi":-8.7},
+    {"hex":"ad61de","altitude":13725,"mlat":[],"tisb":[],"messages":25,"seen":0.3,"rssi":-11.3},
+    {"hex":"a7e5fd","altitude":27000,"mlat":[],"tisb":[],"messages":107,"seen":6.0,"rssi":-12.2},
+    {"hex":"a85d00","altitude":34000,"mlat":[],"tisb":[],"messages":42,"seen":4.3,"rssi":-11.5},
+    {"hex":"c04814","altitude":39000,"mlat":[],"tisb":[],"messages":639,"seen":0.1,"rssi":-4.3},
+    {"hex":"a0339a","squawk":"2341","altitude":11525,"mlat":[],"tisb":[],"messages":775,"seen":0.3,"rssi":-5.3},
+    {"hex":"a14c70","mlat":[],"tisb":[],"messages":52,"seen":134.2,"rssi":-12.8},
+    {"hex":"abefba","flight":"SWA1517 ","lat":39.203156,"lon":-77.164804,"nucp":7,"seen_pos":0.4,"altitude":11650,"vert_rate":1152,"track":232,"speed":350,"category":"A0","mlat":[],"tisb":[],"messages":884,"seen":0.0,"rssi":-2.6},
+    {"hex":"a03816","flight":"4471    ","altitude":12075,"mlat":[],"tisb":[],"messages":806,"seen":0.4,"rssi":-9.6},
+    {"hex":"a2f43b","squawk":"3672","lat":39.110046,"lon":-77.648561,"nucp":7,"seen_pos":9.7,"altitude":7000,"vert_rate":640,"track":337,"speed":130,"mlat":[],"tisb":[],"messages":513,"seen":8.2,"rssi":-7.2},
+    {"hex":"a649e8","squawk":"0734","altitude":2800,"mlat":[],"tisb":[],"messages":2060,"seen":0.1,"rssi":-2.1},
+    {"hex":"a320a6","mlat":[],"tisb":[],"messages":6,"seen":130.5,"rssi":-14.5},
+    {"hex":"a452c4","altitude":11925,"mlat":[],"tisb":[],"messages":276,"seen":3.9,"rssi":-7.4},
+    {"hex":"a1463a","squawk":"3547","altitude":32975,"mlat":[],"tisb":[],"messages":500,"seen":0.1,"rssi":-10.2},
+    {"hex":"a614fb","squawk":"6043","flight":"N491N   ","lat":39.027022,"lon":-78.124023,"nucp":7,"seen_pos":0.2,"altitude":38950,"vert_rate":-1408,"track":25,"speed":484,"category":"A2","mlat":[],"tisb":[],"messages":2798,"seen":0.1,"rssi":-2.7},
+    {"hex":"a24031","squawk":"3060","altitude":30000,"mlat":[],"tisb":[],"messages":916,"seen":0.1,"rssi":-2.6},
+    {"hex":"a7167f","altitude":14300,"mlat":[],"tisb":[],"messages":259,"seen":0.2,"rssi":-6.4},
+    {"hex":"ac26d9","altitude":30200,"mlat":[],"tisb":[],"messages":1097,"seen":0.0,"rssi":-6.7},
+    {"hex":"a4a226","altitude":4400,"mlat":[],"tisb":[],"messages":167,"seen":68.7,"rssi":-12.9},
+    {"hex":"a37eff","altitude":8800,"mlat":[],"tisb":[],"messages":620,"seen":0.0,"rssi":-10.3},
+    {"hex":"acc237","altitude":21900,"mlat":[],"tisb":[],"messages":1272,"seen":1.6,"rssi":-8.3},
+    {"hex":"a03159","squawk":"5641","lat":39.169891,"lon":-77.498047,"nucp":8,"seen_pos":2.7,"altitude":2250,"vert_rate":-448,"track":145,"speed":166,"mlat":[],"tisb":[],"messages":253,"seen":0.3,"rssi":-8.3},
+    {"hex":"c05f10","squawk":"2131","altitude":16800,"mlat":[],"tisb":[],"messages":4428,"seen":0.1,"rssi":-2.8},
+    {"hex":"acf4c9","squawk":"1143","flight":"N934CT  ","lat":39.390223,"lon":-76.914856,"nucp":8,"seen_pos":1.1,"altitude":40000,"vert_rate":-64,"track":231,"speed":295,"category":"A0","mlat":[],"tisb":[],"messages":2088,"seen":0.4,"rssi":-4.3},
+    {"hex":"a05cf3","squawk":"7215","altitude":4800,"mlat":[],"tisb":[],"messages":1934,"seen":0.8,"rssi":-4.2},
+    {"hex":"a209d6","altitude":32000,"mlat":[],"tisb":[],"messages":3998,"seen":0.0,"rssi":-2.3},
+    {"hex":"a66239","altitude":28500,"mlat":[],"tisb":[],"messages":789,"seen":5.4,"rssi":-11.6},
+    {"hex":"a732d9","altitude":4775,"mlat":[],"tisb":[],"messages":2294,"seen":0.1,"rssi":-2.3},
+    {"hex":"a6fa94","squawk":"7002","flight":"JIA5066 ","lat":38.738113,"lon":-77.374798,"nucp":7,"seen_pos":3.1,"altitude":34000,"vert_rate":0,"track":221,"speed":360,"category":"A3","mlat":[],"tisb":[],"messages":1617,"seen":0.1,"rssi":-4.0},
+    {"hex":"ad306e","mlat":[],"tisb":[],"messages":120,"seen":207.3,"rssi":-12.8},
+    {"hex":"a5d400","squawk":"3603","altitude":32300,"mlat":[],"tisb":[],"messages":2724,"seen":0.0,"rssi":-2.7},
+    {"hex":"aa7757","mlat":[],"tisb":[],"messages":399,"seen":298.9,"rssi":-10.7},
+    {"hex":"a2b26b","altitude":23550,"mlat":[],"tisb":[],"messages":964,"seen":5.1,"rssi":-10.9},
+    {"hex":"ad4b47","mlat":[],"tisb":[],"messages":835,"seen":38.8,"rssi":-12.9},
+    {"hex":"a769a3","lat":39.483606,"lon":-77.504761,"nucp":7,"seen_pos":1.5,"altitude":28000,"vert_rate":0,"track":251,"speed":367,"mlat":[],"tisb":[],"messages":1764,"seen":1.0,"rssi":-7.2},
+    {"hex":"a9c5c5","squawk":"1132","flight":"JBU1973 ","lat":38.848541,"lon":-77.253113,"nucp":7,"seen_pos":0.2,"altitude":36000,"vert_rate":-192,"track":222,"speed":360,"category":"A3","mlat":[],"tisb":[],"messages":6123,"seen":0.1,"rssi":-2.4},
+    {"hex":"ade2b8","altitude":29475,"mlat":[],"tisb":[],"messages":1102,"seen":43.9,"rssi":-12.2},
+    {"hex":"a5ca89","altitude":8900,"mlat":[],"tisb":[],"messages":2133,"seen":8.0,"rssi":-11.5},
+    {"hex":"adf0a3","squawk":"2761","flight":"DPJ998  ","altitude":550,"mlat":[],"tisb":[],"messages":1569,"seen":2.1,"rssi":-9.4},
+    {"hex":"acd64b","squawk":"1613","flight":"AAL1723 ","lat":38.702682,"lon":-77.412235,"nucp":7,"seen_pos":0.9,"altitude":29950,"vert_rate":-64,"track":222,"speed":364,"category":"A3","mlat":[],"tisb":[],"messages":7094,"seen":0.0,"rssi":-2.3},
+    {"hex":"aaa28d","flight":"SWA286  ","lat":39.576432,"lon":-77.988525,"nucp":7,"seen_pos":13.0,"altitude":31975,"vert_rate":768,"track":292,"speed":341,"category":"A0","mlat":[],"tisb":[],"messages":6960,"seen":3.3,"rssi":-11.9},
+    {"hex":"a4f790","mlat":[],"tisb":[],"messages":705,"seen":90.9,"rssi":-10.3},
+    {"hex":"a2ed83","lat":39.639725,"lon":-77.318613,"nucp":7,"seen_pos":35.1,"altitude":34000,"vert_rate":-128,"track":239,"speed":365,"mlat":[],"tisb":[],"messages":1303,"seen":2.5,"rssi":-10.6},
+    {"hex":"a4943e","flight":"UAL473  ","altitude":26000,"vert_rate":0,"track":276,"speed":349,"category":"A0","mlat":[],"tisb":[],"messages":7380,"seen":0.2,"rssi":-9.4},
+    {"hex":"a63f77","squawk":"2144","altitude":16800,"mlat":[],"tisb":[],"messages":4458,"seen":5.4,"rssi":-9.6},
+    {"hex":"ace19a","altitude":28000,"mlat":[],"tisb":[],"messages":6035,"seen":15.2,"rssi":-13.2},
+    {"hex":"a0cad9","mlat":[],"tisb":[],"messages":1024,"seen":104.0,"rssi":-13.7},
+    {"hex":"a71f24","altitude":27875,"mlat":[],"tisb":[],"messages":1222,"seen":43.3,"rssi":-12.7},
+    {"hex":"a77c11","squawk":"7225","flight":"UAL653  ","lat":39.020365,"lon":-77.458557,"nucp":7,"seen_pos":0.3,"altitude":1125,"vert_rate":-768,"track":182,"speed":128,"category":"A0","mlat":[],"tisb":[],"messages":4629,"seen":0.0,"rssi":-3.2},
+    {"hex":"a9979f","mlat":[],"tisb":[],"messages":982,"seen":137.7,"rssi":-11.6},
+    {"hex":"a34119","altitude":1750,"mlat":[],"tisb":[],"messages":4200,"seen":23.2,"rssi":-6.4},
+    {"hex":"abfb46","altitude":27975,"mlat":[],"tisb":[],"messages":7105,"seen":13.7,"rssi":-12.9},
+    {"hex":"a64996","mlat":[],"tisb":[],"messages":1598,"seen":269.8,"rssi":-11.2},
+    {"hex":"ab34a7","squawk":"1474","altitude":2575,"mlat":[],"tisb":[],"messages":2993,"seen":0.6,"rssi":-3.3},
+    {"hex":"accd13","altitude":30525,"mlat":[],"tisb":[],"messages":3965,"seen":0.5,"rssi":-8.9},
+    {"hex":"06a07a","mlat":[],"tisb":[],"messages":6409,"seen":14.0,"rssi":-14.6},
+    {"hex":"a6b435","squawk":"2105","altitude":4250,"mlat":[],"tisb":[],"messages":9098,"seen":0.1,"rssi":-2.1},
+    {"hex":"acc9a5","altitude":34000,"mlat":[],"tisb":[],"messages":6616,"seen":0.0,"rssi":-10.5},
+    {"hex":"a4d04c","altitude":29000,"mlat":[],"tisb":[],"messages":7885,"seen":48.4,"rssi":-13.9},
+    {"hex":"a5a11e","altitude":24025,"mlat":[],"tisb":[],"messages":1697,"seen":4.4,"rssi":-9.6},
+    {"hex":"ad2eef","altitude":30000,"mlat":[],"tisb":[],"messages":9710,"seen":0.0,"rssi":-8.1},
+    {"hex":"a923a7","mlat":[],"tisb":[],"messages":5258,"seen":130.6,"rssi":-10.0},
+    {"hex":"ac8ee5","mlat":[],"tisb":[],"messages":562,"seen":169.5,"rssi":-9.7},
+    {"hex":"a8d665","mlat":[],"tisb":[],"messages":2781,"seen":239.1,"rssi":-14.6},
+    {"hex":"a683e8","mlat":[],"tisb":[],"messages":3976,"seen":218.0,"rssi":-7.5},
+    {"hex":"ab72d5","mlat":[],"tisb":[],"messages":1784,"seen":248.2,"rssi":-13.3},
+    {"hex":"48414e","mlat":[],"tisb":[],"messages":12594,"seen":136.3,"rssi":-9.7},
+    {"hex":"aa231c","mlat":[],"tisb":[],"messages":5104,"seen":227.5,"rssi":-13.9},
+    {"hex":"a4f414","mlat":[],"tisb":[],"messages":6824,"seen":202.6,"rssi":-9.4},
+    {"hex":"a08021","mlat":[],"tisb":[],"messages":4101,"seen":99.1,"rssi":-13.8},
+    {"hex":"a0a050","mlat":[],"tisb":[],"messages":8276,"seen":5.5,"rssi":-12.8},
+    {"hex":"000000","mlat":[],"tisb":[],"messages":616,"seen":249.0,"rssi":-6.6}
+  ]
+}
+<<<
+
+D1:
+[{u'tisb': [], u'track': 293, u'messages': 51, u'altitude': 7325, u'vert_rate': 3904, u'hex': u'ab627c', u'mlat': [], u'rssi': -6.5, u'seen': 0.3, u'speed': 275}, {u'tisb': [], u'hex': u'a30c8e', u'altitude': 35000, u'messages': 12, u'mlat': [], u'rssi': -13.9, u'seen': 0.1}, {u'tisb': [], u'hex': u'a15516', u'messages': 9, u'mlat': [], u'seen': 41.1, u'rssi': -13.4}, {u'squawk': u'3347', u'hex': u'a135cb', u'altitude': 34000, u'messages': 56, u'tisb': [], u'mlat': [], u'rssi': -13.9, u'seen': 17.9}, {u'category': u'A0', u'tisb': [], u'flight': u'5773    ', u'track': 87, u'messages': 31, u'altitude': 7200, u'vert_rate': 4352, u'hex': u'aaad6d', u'mlat': [], u'rssi': -10.6, u'seen': 0.3, u'speed': 288}, {u'squawk': u'2476', u'messages': 78, u'track': 269, u'hex': u'a55447', u'altitude': 6150, u'vert_rate': 4288, u'lon': -77.089333, u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -5.5, u'lat': 38.74585, u'seen': 0.1, u'speed': 246, u'seen_pos': 0.6}, {u'tisb': [], u'hex': u'aa7aa6', u'altitude': 38000, u'messages': 14, u'mlat': [], u'rssi': -13.4, u'seen': 2.4}, {u'squawk': u'3137', u'messages': 126, u'track': 41, u'hex': u'a120f3', u'altitude': 35000, u'vert_rate': 0, u'lon': -77.150905, u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -8.1, u'lat': 38.013016, u'seen': 0.9, u'speed': 542, u'seen_pos': 8.3}, {u'tisb': [], u'track': 11, u'messages': 50, u'altitude': 20450, u'vert_rate': -1984, u'hex': u'a8754d', u'mlat': [], u'rssi': -8.7, u'seen': 4.5, u'speed': 338}, {u'tisb': [], u'hex': u'ad61de', u'altitude': 13725, u'messages': 25, u'mlat': [], u'rssi': -11.3, u'seen': 0.3}, {u'tisb': [], u'hex': u'a7e5fd', u'altitude': 27000, u'messages': 107, u'mlat': [], u'rssi': -12.2, u'seen': 6.0}, {u'tisb': [], u'hex': u'a85d00', u'altitude': 34000, u'messages': 42, u'mlat': [], u'rssi': -11.5, u'seen': 4.3}, {u'tisb': [], u'hex': u'c04814', u'altitude': 39000, u'messages': 639, u'mlat': [], u'rssi': -4.3, u'seen': 0.1}, {u'squawk': u'2341', u'hex': u'a0339a', u'altitude': 11525, u'messages': 775, u'tisb': [], u'mlat': [], u'rssi': -5.3, u'seen': 0.3}, {u'tisb': [], u'hex': u'a14c70', u'messages': 52, u'mlat': [], u'seen': 134.2, u'rssi': -12.8}, {u'category': u'A0', u'tisb': [], u'flight': u'SWA1517 ', u'messages': 884, u'track': 232, u'lon': -77.164804, u'altitude': 11650, u'vert_rate': 1152, u'hex': u'abefba', u'nucp': 7, u'mlat': [], u'rssi': -2.6, u'lat': 39.203156, u'seen': 0.0, u'speed': 350, u'seen_pos': 0.4}, {u'tisb': [], u'flight': u'4471    ', u'messages': 806, u'altitude': 12075, u'hex': u'a03816', u'mlat': [], u'rssi': -9.6, u'seen': 0.4}, {u'squawk': u'3672', u'messages': 513, u'track': 337, u'hex': u'a2f43b', u'altitude': 7000, u'vert_rate': 640, u'lon': -77.648561, u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -7.2, u'lat': 39.110046, u'seen': 8.2, u'speed': 130, u'seen_pos': 9.7}, {u'squawk': u'0734', u'hex': u'a649e8', u'altitude': 2800, u'messages': 2060, u'tisb': [], u'mlat': [], u'rssi': -2.1, u'seen': 0.1}, {u'tisb': [], u'hex': u'a320a6', u'messages': 6, u'mlat': [], u'seen': 130.5, u'rssi': -14.5}, {u'tisb': [], u'hex': u'a452c4', u'altitude': 11925, u'messages': 276, u'mlat': [], u'rssi': -7.4, u'seen': 3.9}, {u'squawk': u'3547', u'hex': u'a1463a', u'altitude': 32975, u'messages': 500, u'tisb': [], u'mlat': [], u'rssi': -10.2, u'seen': 0.1}, {u'category': u'A2', u'squawk': u'6043', u'flight': u'N491N   ', u'messages': 2798, u'track': 25, u'lon': -78.124023, u'altitude': 38950, u'vert_rate': -1408, u'hex': u'a614fb', u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -2.7, u'lat': 39.027022, u'seen': 0.1, u'speed': 484, u'seen_pos': 0.2}, {u'squawk': u'3060', u'hex': u'a24031', u'altitude': 30000, u'messages': 916, u'tisb': [], u'mlat': [], u'rssi': -2.6, u'seen': 0.1}, {u'tisb': [], u'hex': u'a7167f', u'altitude': 14300, u'messages': 259, u'mlat': [], u'rssi': -6.4, u'seen': 0.2}, {u'tisb': [], u'hex': u'ac26d9', u'altitude': 30200, u'messages': 1097, u'mlat': [], u'rssi': -6.7, u'seen': 0.0}, {u'tisb': [], u'hex': u'a4a226', u'altitude': 4400, u'messages': 167, u'mlat': [], u'rssi': -12.9, u'seen': 68.7}, {u'tisb': [], u'hex': u'a37eff', u'altitude': 8800, u'messages': 620, u'mlat': [], u'rssi': -10.3, u'seen': 0.0}, {u'tisb': [], u'hex': u'acc237', u'altitude': 21900, u'messages': 1272, u'mlat': [], u'rssi': -8.3, u'seen': 1.6}, {u'squawk': u'5641', u'messages': 253, u'track': 145, u'hex': u'a03159', u'altitude': 2250, u'vert_rate': -448, u'lon': -77.498047, u'tisb': [], u'nucp': 8, u'mlat': [], u'rssi': -8.3, u'lat': 39.169891, u'seen': 0.3, u'speed': 166, u'seen_pos': 2.7}, {u'squawk': u'2131', u'hex': u'c05f10', u'altitude': 16800, u'messages': 4428, u'tisb': [], u'mlat': [], u'rssi': -2.8, u'seen': 0.1}, {u'category': u'A0', u'squawk': u'1143', u'flight': u'N934CT  ', u'messages': 2088, u'track': 231, u'lon': -76.914856, u'altitude': 40000, u'vert_rate': -64, u'hex': u'acf4c9', u'tisb': [], u'nucp': 8, u'mlat': [], u'rssi': -4.3, u'lat': 39.390223, u'seen': 0.4, u'speed': 295, u'seen_pos': 1.1}, {u'squawk': u'7215', u'hex': u'a05cf3', u'altitude': 4800, u'messages': 1934, u'tisb': [], u'mlat': [], u'rssi': -4.2, u'seen': 0.8}, {u'tisb': [], u'hex': u'a209d6', u'altitude': 32000, u'messages': 3998, u'mlat': [], u'rssi': -2.3, u'seen': 0.0}, {u'tisb': [], u'hex': u'a66239', u'altitude': 28500, u'messages': 789, u'mlat': [], u'rssi': -11.6, u'seen': 5.4}, {u'tisb': [], u'hex': u'a732d9', u'altitude': 4775, u'messages': 2294, u'mlat': [], u'rssi': -2.3, u'seen': 0.1}, {u'category': u'A3', u'squawk': u'7002', u'flight': u'JIA5066 ', u'messages': 1617, u'track': 221, u'lon': -77.374798, u'altitude': 34000, u'vert_rate': 0, u'hex': u'a6fa94', u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -4.0, u'lat': 38.738113, u'seen': 0.1, u'speed': 360, u'seen_pos': 3.1}, {u'tisb': [], u'hex': u'ad306e', u'messages': 120, u'mlat': [], u'seen': 207.3, u'rssi': -12.8}, {u'squawk': u'3603', u'hex': u'a5d400', u'altitude': 32300, u'messages': 2724, u'tisb': [], u'mlat': [], u'rssi': -2.7, u'seen': 0.0}, {u'tisb': [], u'hex': u'aa7757', u'messages': 399, u'mlat': [], u'seen': 298.9, u'rssi': -10.7}, {u'tisb': [], u'hex': u'a2b26b', u'altitude': 23550, u'messages': 964, u'mlat': [], u'rssi': -10.9, u'seen': 5.1}, {u'tisb': [], u'hex': u'ad4b47', u'messages': 835, u'mlat': [], u'seen': 38.8, u'rssi': -12.9}, {u'tisb': [], u'messages': 1764, u'track': 251, u'hex': u'a769a3', u'altitude': 28000, u'vert_rate': 0, u'lon': -77.504761, u'nucp': 7, u'mlat': [], u'rssi': -7.2, u'lat': 39.483606, u'seen': 1.0, u'speed': 367, u'seen_pos': 1.5}, {u'category': u'A3', u'squawk': u'1132', u'flight': u'JBU1973 ', u'messages': 6123, u'track': 222, u'lon': -77.253113, u'altitude': 36000, u'vert_rate': -192, u'hex': u'a9c5c5', u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -2.4, u'lat': 38.848541, u'seen': 0.1, u'speed': 360, u'seen_pos': 0.2}, {u'tisb': [], u'hex': u'ade2b8', u'altitude': 29475, u'messages': 1102, u'mlat': [], u'rssi': -12.2, u'seen': 43.9}, {u'tisb': [], u'hex': u'a5ca89', u'altitude': 8900, u'messages': 2133, u'mlat': [], u'rssi': -11.5, u'seen': 8.0}, {u'squawk': u'2761', u'flight': u'DPJ998  ', u'messages': 1569, u'altitude': 550, u'hex': u'adf0a3', u'tisb': [], u'mlat': [], u'rssi': -9.4, u'seen': 2.1}, {u'category': u'A3', u'squawk': u'1613', u'flight': u'AAL1723 ', u'messages': 7094, u'track': 222, u'lon': -77.412235, u'altitude': 29950, u'vert_rate': -64, u'hex': u'acd64b', u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -2.3, u'lat': 38.702682, u'seen': 0.0, u'speed': 364, u'seen_pos': 0.9}, {u'category': u'A0', u'tisb': [], u'flight': u'SWA286  ', u'messages': 6960, u'track': 292, u'lon': -77.988525, u'altitude': 31975, u'vert_rate': 768, u'hex': u'aaa28d', u'nucp': 7, u'mlat': [], u'rssi': -11.9, u'lat': 39.576432, u'seen': 3.3, u'speed': 341, u'seen_pos': 13.0}, {u'tisb': [], u'hex': u'a4f790', u'messages': 705, u'mlat': [], u'seen': 90.9, u'rssi': -10.3}, {u'tisb': [], u'messages': 1303, u'track': 239, u'hex': u'a2ed83', u'altitude': 34000, u'vert_rate': -128, u'lon': -77.318613, u'nucp': 7, u'mlat': [], u'rssi': -10.6, u'lat': 39.639725, u'seen': 2.5, u'speed': 365, u'seen_pos': 35.1}, {u'category': u'A0', u'tisb': [], u'flight': u'UAL473  ', u'track': 276, u'messages': 7380, u'altitude': 26000, u'vert_rate': 0, u'hex': u'a4943e', u'mlat': [], u'rssi': -9.4, u'seen': 0.2, u'speed': 349}, {u'squawk': u'2144', u'hex': u'a63f77', u'altitude': 16800, u'messages': 4458, u'tisb': [], u'mlat': [], u'rssi': -9.6, u'seen': 5.4}, {u'tisb': [], u'hex': u'ace19a', u'altitude': 28000, u'messages': 6035, u'mlat': [], u'rssi': -13.2, u'seen': 15.2}, {u'tisb': [], u'hex': u'a0cad9', u'messages': 1024, u'mlat': [], u'seen': 104.0, u'rssi': -13.7}, {u'tisb': [], u'hex': u'a71f24', u'altitude': 27875, u'messages': 1222, u'mlat': [], u'rssi': -12.7, u'seen': 43.3}, {u'category': u'A0', u'squawk': u'7225', u'flight': u'UAL653  ', u'messages': 4629, u'track': 182, u'lon': -77.458557, u'altitude': 1125, u'vert_rate': -768, u'hex': u'a77c11', u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -3.2, u'lat': 39.020365, u'seen': 0.0, u'speed': 128, u'seen_pos': 0.3}, {u'tisb': [], u'hex': u'a9979f', u'messages': 982, u'mlat': [], u'seen': 137.7, u'rssi': -11.6}, {u'tisb': [], u'hex': u'a34119', u'altitude': 1750, u'messages': 4200, u'mlat': [], u'rssi': -6.4, u'seen': 23.2}, {u'tisb': [], u'hex': u'abfb46', u'altitude': 27975, u'messages': 7105, u'mlat': [], u'rssi': -12.9, u'seen': 13.7}, {u'tisb': [], u'hex': u'a64996', u'messages': 1598, u'mlat': [], u'seen': 269.8, u'rssi': -11.2}, {u'squawk': u'1474', u'hex': u'ab34a7', u'altitude': 2575, u'messages': 2993, u'tisb': [], u'mlat': [], u'rssi': -3.3, u'seen': 0.6}, {u'tisb': [], u'hex': u'accd13', u'altitude': 30525, u'messages': 3965, u'mlat': [], u'rssi': -8.9, u'seen': 0.5}, {u'tisb': [], u'hex': u'06a07a', u'messages': 6409, u'mlat': [], u'seen': 14.0, u'rssi': -14.6}, {u'squawk': u'2105', u'hex': u'a6b435', u'altitude': 4250, u'messages': 9098, u'tisb': [], u'mlat': [], u'rssi': -2.1, u'seen': 0.1}, {u'tisb': [], u'hex': u'acc9a5', u'altitude': 34000, u'messages': 6616, u'mlat': [], u'rssi': -10.5, u'seen': 0.0}, {u'tisb': [], u'hex': u'a4d04c', u'altitude': 29000, u'messages': 7885, u'mlat': [], u'rssi': -13.9, u'seen': 48.4}, {u'tisb': [], u'hex': u'a5a11e', u'altitude': 24025, u'messages': 1697, u'mlat': [], u'rssi': -9.6, u'seen': 4.4}, {u'tisb': [], u'hex': u'ad2eef', u'altitude': 30000, u'messages': 9710, u'mlat': [], u'rssi': -8.1, u'seen': 0.0}, {u'tisb': [], u'hex': u'a923a7', u'messages': 5258, u'mlat': [], u'seen': 130.6, u'rssi': -10.0}, {u'tisb': [], u'hex': u'ac8ee5', u'messages': 562, u'mlat': [], u'seen': 169.5, u'rssi': -9.7}, {u'tisb': [], u'hex': u'a8d665', u'messages': 2781, u'mlat': [], u'seen': 239.1, u'rssi': -14.6}, {u'tisb': [], u'hex': u'a683e8', u'messages': 3976, u'mlat': [], u'seen': 218.0, u'rssi': -7.5}, {u'tisb': [], u'hex': u'ab72d5', u'messages': 1784, u'mlat': [], u'seen': 248.2, u'rssi': -13.3}, {u'tisb': [], u'hex': u'48414e', u'messages': 12594, u'mlat': [], u'seen': 136.3, u'rssi': -9.7}, {u'tisb': [], u'hex': u'aa231c', u'messages': 5104, u'mlat': [], u'seen': 227.5, u'rssi': -13.9}, {u'tisb': [], u'hex': u'a4f414', u'messages': 6824, u'mlat': [], u'seen': 202.6, u'rssi': -9.4}, {u'tisb': [], u'hex': u'a08021', u'messages': 4101, u'mlat': [], u'seen': 99.1, u'rssi': -13.8}, {u'tisb': [], u'hex': u'a0a050', u'messages': 8276, u'mlat': [], u'seen': 5.5, u'rssi': -12.8}, {u'tisb': [], u'hex': u'000000', u'messages': 616, u'mlat': [], u'seen': 249.0, u'rssi': -6.6}]
+
+D2
+{u'tisb': [], u'track': 293, u'messages': 51, u'altitude': 7325, u'vert_rate': 3904, u'hex': u'ab627c', u'mlat': [], u'rssi': -6.5, u'seen': 0.3, u'speed': 275}
+
+{u'tisb': [], u'track': 293, u'messages': 51, u'altitude': 7325, u'vert_rate': 3904, u'hex': u'ab627c', u'mlat': [], u'rssi': -6.5, u'seen': 0.3, u'speed': 275}
+{u'tisb': [], u'hex': u'a30c8e', u'altitude': 35000, u'messages': 12, u'mlat': [], u'rssi': -13.9, u'seen': 0.1}
+{u'tisb': [], u'hex': u'a15516', u'messages': 9, u'mlat': [], u'seen': 41.1, u'rssi': -13.4}
+{u'squawk': u'3347', u'hex': u'a135cb', u'altitude': 34000, u'messages': 56, u'tisb': [], u'mlat': [], u'rssi': -13.9, u'seen': 17.9}
+{u'category': u'A0', u'tisb': [], u'flight': u'5773    ', u'track': 87, u'messages': 31, u'altitude': 7200, u'vert_rate': 4352, u'hex': u'aaad6d', u'mlat': [], u'rssi': -10.6, u'seen': 0.3, u'speed': 288}
+{u'squawk': u'2476', u'messages': 78, u'track': 269, u'hex': u'a55447', u'altitude': 6150, u'vert_rate': 4288, u'lon': -77.089333, u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -5.5, u'lat': 38.74585, u'seen': 0.1, u'speed': 246, u'seen_pos': 0.6}
+{u'tisb': [], u'hex': u'aa7aa6', u'altitude': 38000, u'messages': 14, u'mlat': [], u'rssi': -13.4, u'seen': 2.4}
+{u'squawk': u'3137', u'messages': 126, u'track': 41, u'hex': u'a120f3', u'altitude': 35000, u'vert_rate': 0, u'lon': -77.150905, u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -8.1, u'lat': 38.013016, u'seen': 0.9, u'speed': 542, u'seen_pos': 8.3}
+{u'tisb': [], u'track': 11, u'messages': 50, u'altitude': 20450, u'vert_rate': -1984, u'hex': u'a8754d', u'mlat': [], u'rssi': -8.7, u'seen': 4.5, u'speed': 338}
+{u'tisb': [], u'hex': u'ad61de', u'altitude': 13725, u'messages': 25, u'mlat': [], u'rssi': -11.3, u'seen': 0.3}
+{u'tisb': [], u'hex': u'a7e5fd', u'altitude': 27000, u'messages': 107, u'mlat': [], u'rssi': -12.2, u'seen': 6.0}
+{u'tisb': [], u'hex': u'a85d00', u'altitude': 34000, u'messages': 42, u'mlat': [], u'rssi': -11.5, u'seen': 4.3}
+{u'tisb': [], u'hex': u'c04814', u'altitude': 39000, u'messages': 639, u'mlat': [], u'rssi': -4.3, u'seen': 0.1}
+{u'squawk': u'2341', u'hex': u'a0339a', u'altitude': 11525, u'messages': 775, u'tisb': [], u'mlat': [], u'rssi': -5.3, u'seen': 0.3}
+{u'tisb': [], u'hex': u'a14c70', u'messages': 52, u'mlat': [], u'seen': 134.2, u'rssi': -12.8}
+{u'category': u'A0', u'tisb': [], u'flight': u'SWA1517 ', u'messages': 884, u'track': 232, u'lon': -77.164804, u'altitude': 11650, u'vert_rate': 1152, u'hex': u'abefba', u'nucp': 7, u'mlat': [], u'rssi': -2.6, u'lat': 39.203156, u'seen': 0.0, u'speed': 350, u'seen_pos': 0.4}
+{u'tisb': [], u'flight': u'4471    ', u'messages': 806, u'altitude': 12075, u'hex': u'a03816', u'mlat': [], u'rssi': -9.6, u'seen': 0.4}
+{u'squawk': u'3672', u'messages': 513, u'track': 337, u'hex': u'a2f43b', u'altitude': 7000, u'vert_rate': 640, u'lon': -77.648561, u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -7.2, u'lat': 39.110046, u'seen': 8.2, u'speed': 130, u'seen_pos': 9.7}
+{u'squawk': u'0734', u'hex': u'a649e8', u'altitude': 2800, u'messages': 2060, u'tisb': [], u'mlat': [], u'rssi': -2.1, u'seen': 0.1}
+{u'tisb': [], u'hex': u'a320a6', u'messages': 6, u'mlat': [], u'seen': 130.5, u'rssi': -14.5}
+{u'tisb': [], u'hex': u'a452c4', u'altitude': 11925, u'messages': 276, u'mlat': [], u'rssi': -7.4, u'seen': 3.9}
+{u'squawk': u'3547', u'hex': u'a1463a', u'altitude': 32975, u'messages': 500, u'tisb': [], u'mlat': [], u'rssi': -10.2, u'seen': 0.1}
+{u'category': u'A2', u'squawk': u'6043', u'flight': u'N491N   ', u'messages': 2798, u'track': 25, u'lon': -78.124023, u'altitude': 38950, u'vert_rate': -1408, u'hex': u'a614fb', u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -2.7, u'lat': 39.027022, u'seen': 0.1, u'speed': 484, u'seen_pos': 0.2}
+{u'squawk': u'3060', u'hex': u'a24031', u'altitude': 30000, u'messages': 916, u'tisb': [], u'mlat': [], u'rssi': -2.6, u'seen': 0.1}
+{u'tisb': [], u'hex': u'a7167f', u'altitude': 14300, u'messages': 259, u'mlat': [], u'rssi': -6.4, u'seen': 0.2}
+{u'tisb': [], u'hex': u'ac26d9', u'altitude': 30200, u'messages': 1097, u'mlat': [], u'rssi': -6.7, u'seen': 0.0}
+{u'tisb': [], u'hex': u'a4a226', u'altitude': 4400, u'messages': 167, u'mlat': [], u'rssi': -12.9, u'seen': 68.7}
+{u'tisb': [], u'hex': u'a37eff', u'altitude': 8800, u'messages': 620, u'mlat': [], u'rssi': -10.3, u'seen': 0.0}
+{u'tisb': [], u'hex': u'acc237', u'altitude': 21900, u'messages': 1272, u'mlat': [], u'rssi': -8.3, u'seen': 1.6}
+{u'squawk': u'5641', u'messages': 253, u'track': 145, u'hex': u'a03159', u'altitude': 2250, u'vert_rate': -448, u'lon': -77.498047, u'tisb': [], u'nucp': 8, u'mlat': [], u'rssi': -8.3, u'lat': 39.169891, u'seen': 0.3, u'speed': 166, u'seen_pos': 2.7}
+{u'squawk': u'2131', u'hex': u'c05f10', u'altitude': 16800, u'messages': 4428, u'tisb': [], u'mlat': [], u'rssi': -2.8, u'seen': 0.1}
+{u'category': u'A0', u'squawk': u'1143', u'flight': u'N934CT  ', u'messages': 2088, u'track': 231, u'lon': -76.914856, u'altitude': 40000, u'vert_rate': -64, u'hex': u'acf4c9', u'tisb': [], u'nucp': 8, u'mlat': [], u'rssi': -4.3, u'lat': 39.390223, u'seen': 0.4, u'speed': 295, u'seen_pos': 1.1}
+{u'squawk': u'7215', u'hex': u'a05cf3', u'altitude': 4800, u'messages': 1934, u'tisb': [], u'mlat': [], u'rssi': -4.2, u'seen': 0.8}
+{u'tisb': [], u'hex': u'a209d6', u'altitude': 32000, u'messages': 3998, u'mlat': [], u'rssi': -2.3, u'seen': 0.0}
+{u'tisb': [], u'hex': u'a66239', u'altitude': 28500, u'messages': 789, u'mlat': [], u'rssi': -11.6, u'seen': 5.4}
+{u'tisb': [], u'hex': u'a732d9', u'altitude': 4775, u'messages': 2294, u'mlat': [], u'rssi': -2.3, u'seen': 0.1}
+{u'category': u'A3', u'squawk': u'7002', u'flight': u'JIA5066 ', u'messages': 1617, u'track': 221, u'lon': -77.374798, u'altitude': 34000, u'vert_rate': 0, u'hex': u'a6fa94', u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -4.0, u'lat': 38.738113, u'seen': 0.1, u'speed': 360, u'seen_pos': 3.1}
+{u'tisb': [], u'hex': u'ad306e', u'messages': 120, u'mlat': [], u'seen': 207.3, u'rssi': -12.8}
+{u'squawk': u'3603', u'hex': u'a5d400', u'altitude': 32300, u'messages': 2724, u'tisb': [], u'mlat': [], u'rssi': -2.7, u'seen': 0.0}
+{u'tisb': [], u'hex': u'aa7757', u'messages': 399, u'mlat': [], u'seen': 298.9, u'rssi': -10.7}
+{u'tisb': [], u'hex': u'a2b26b', u'altitude': 23550, u'messages': 964, u'mlat': [], u'rssi': -10.9, u'seen': 5.1}
+{u'tisb': [], u'hex': u'ad4b47', u'messages': 835, u'mlat': [], u'seen': 38.8, u'rssi': -12.9}
+{u'tisb': [], u'messages': 1764, u'track': 251, u'hex': u'a769a3', u'altitude': 28000, u'vert_rate': 0, u'lon': -77.504761, u'nucp': 7, u'mlat': [], u'rssi': -7.2, u'lat': 39.483606, u'seen': 1.0, u'speed': 367, u'seen_pos': 1.5}
+{u'category': u'A3', u'squawk': u'1132', u'flight': u'JBU1973 ', u'messages': 6123, u'track': 222, u'lon': -77.253113, u'altitude': 36000, u'vert_rate': -192, u'hex': u'a9c5c5', u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -2.4, u'lat': 38.848541, u'seen': 0.1, u'speed': 360, u'seen_pos': 0.2}
+{u'tisb': [], u'hex': u'ade2b8', u'altitude': 29475, u'messages': 1102, u'mlat': [], u'rssi': -12.2, u'seen': 43.9}
+{u'tisb': [], u'hex': u'a5ca89', u'altitude': 8900, u'messages': 2133, u'mlat': [], u'rssi': -11.5, u'seen': 8.0}
+{u'squawk': u'2761', u'flight': u'DPJ998  ', u'messages': 1569, u'altitude': 550, u'hex': u'adf0a3', u'tisb': [], u'mlat': [], u'rssi': -9.4, u'seen': 2.1}
+{u'category': u'A3', u'squawk': u'1613', u'flight': u'AAL1723 ', u'messages': 7094, u'track': 222, u'lon': -77.412235, u'altitude': 29950, u'vert_rate': -64, u'hex': u'acd64b', u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -2.3, u'lat': 38.702682, u'seen': 0.0, u'speed': 364, u'seen_pos': 0.9}
+{u'category': u'A0', u'tisb': [], u'flight': u'SWA286  ', u'messages': 6960, u'track': 292, u'lon': -77.988525, u'altitude': 31975, u'vert_rate': 768, u'hex': u'aaa28d', u'nucp': 7, u'mlat': [], u'rssi': -11.9, u'lat': 39.576432, u'seen': 3.3, u'speed': 341, u'seen_pos': 13.0}
+{u'tisb': [], u'hex': u'a4f790', u'messages': 705, u'mlat': [], u'seen': 90.9, u'rssi': -10.3}
+{u'tisb': [], u'messages': 1303, u'track': 239, u'hex': u'a2ed83', u'altitude': 34000, u'vert_rate': -128, u'lon': -77.318613, u'nucp': 7, u'mlat': [], u'rssi': -10.6, u'lat': 39.639725, u'seen': 2.5, u'speed': 365, u'seen_pos': 35.1}
+{u'category': u'A0', u'tisb': [], u'flight': u'UAL473  ', u'track': 276, u'messages': 7380, u'altitude': 26000, u'vert_rate': 0, u'hex': u'a4943e', u'mlat': [], u'rssi': -9.4, u'seen': 0.2, u'speed': 349}
+{u'squawk': u'2144', u'hex': u'a63f77', u'altitude': 16800, u'messages': 4458, u'tisb': [], u'mlat': [], u'rssi': -9.6, u'seen': 5.4}
+{u'tisb': [], u'hex': u'ace19a', u'altitude': 28000, u'messages': 6035, u'mlat': [], u'rssi': -13.2, u'seen': 15.2}
+{u'tisb': [], u'hex': u'a0cad9', u'messages': 1024, u'mlat': [], u'seen': 104.0, u'rssi': -13.7}
+{u'tisb': [], u'hex': u'a71f24', u'altitude': 27875, u'messages': 1222, u'mlat': [], u'rssi': -12.7, u'seen': 43.3}
+{u'category': u'A0', u'squawk': u'7225', u'flight': u'UAL653  ', u'messages': 4629, u'track': 182, u'lon': -77.458557, u'altitude': 1125, u'vert_rate': -768, u'hex': u'a77c11', u'tisb': [], u'nucp': 7, u'mlat': [], u'rssi': -3.2, u'lat': 39.020365, u'seen': 0.0, u'speed': 128, u'seen_pos': 0.3}
+{u'tisb': [], u'hex': u'a9979f', u'messages': 982, u'mlat': [], u'seen': 137.7, u'rssi': -11.6}
+{u'tisb': [], u'hex': u'a34119', u'altitude': 1750, u'messages': 4200, u'mlat': [], u'rssi': -6.4, u'seen': 23.2}
+{u'tisb': [], u'hex': u'abfb46', u'altitude': 27975, u'messages': 7105, u'mlat': [], u'rssi': -12.9, u'seen': 13.7}
+{u'tisb': [], u'hex': u'a64996', u'messages': 1598, u'mlat': [], u'seen': 269.8, u'rssi': -11.2}
+{u'squawk': u'1474', u'hex': u'ab34a7', u'altitude': 2575, u'messages': 2993, u'tisb': [], u'mlat': [], u'rssi': -3.3, u'seen': 0.6}
+{u'tisb': [], u'hex': u'accd13', u'altitude': 30525, u'messages': 3965, u'mlat': [], u'rssi': -8.9, u'seen': 0.5}
+{u'tisb': [], u'hex': u'06a07a', u'messages': 6409, u'mlat': [], u'seen': 14.0, u'rssi': -14.6}
+{u'squawk': u'2105', u'hex': u'a6b435', u'altitude': 4250, u'messages': 9098, u'tisb': [], u'mlat': [], u'rssi': -2.1, u'seen': 0.1}
+{u'tisb': [], u'hex': u'acc9a5', u'altitude': 34000, u'messages': 6616, u'mlat': [], u'rssi': -10.5, u'seen': 0.0}
+{u'tisb': [], u'hex': u'a4d04c', u'altitude': 29000, u'messages': 7885, u'mlat': [], u'rssi': -13.9, u'seen': 48.4}
+{u'tisb': [], u'hex': u'a5a11e', u'altitude': 24025, u'messages': 1697, u'mlat': [], u'rssi': -9.6, u'seen': 4.4}
+{u'tisb': [], u'hex': u'ad2eef', u'altitude': 30000, u'messages': 9710, u'mlat': [], u'rssi': -8.1, u'seen': 0.0}
+{u'tisb': [], u'hex': u'a923a7', u'messages': 5258, u'mlat': [], u'seen': 130.6, u'rssi': -10.0}
+{u'tisb': [], u'hex': u'ac8ee5', u'messages': 562, u'mlat': [], u'seen': 169.5, u'rssi': -9.7}
+{u'tisb': [], u'hex': u'a8d665', u'messages': 2781, u'mlat': [], u'seen': 239.1, u'rssi': -14.6}
+{u'tisb': [], u'hex': u'a683e8', u'messages': 3976, u'mlat': [], u'seen': 218.0, u'rssi': -7.5}
+{u'tisb': [], u'hex': u'ab72d5', u'messages': 1784, u'mlat': [], u'seen': 248.2, u'rssi': -13.3}
+{u'tisb': [], u'hex': u'48414e', u'messages': 12594, u'mlat': [], u'seen': 136.3, u'rssi': -9.7}
+{u'tisb': [], u'hex': u'aa231c', u'messages': 5104, u'mlat': [], u'seen': 227.5, u'rssi': -13.9}
+{u'tisb': [], u'hex': u'a4f414', u'messages': 6824, u'mlat': [], u'seen': 202.6, u'rssi': -9.4}
+{u'tisb': [], u'hex': u'a08021', u'messages': 4101, u'mlat': [], u'seen': 99.1, u'rssi': -13.8}
+{u'tisb': [], u'hex': u'a0a050', u'messages': 8276, u'mlat': [], u'seen': 5.5, u'rssi': -12.8}
+{u'tisb': [], u'hex': u'000000', u'messages': 616, u'mlat': [], u'seen': 249.0, u'rssi': -6.6}
+
+removing file "/tmp/tmp1DrXbS"
